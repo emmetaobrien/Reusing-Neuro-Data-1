@@ -1,0 +1,138 @@
+{
+	"identifier": {
+        "identifier": "10.5683/SP2/QAIMTK",
+        "identifierSource": "DOI"
+    },
+	"version": "1.0",
+	"privacy": "Open Access",
+	"licenses": [
+		{
+			"name": "Creative Commons Attribution 4.0 International (CC-BY 4.0)"
+		}
+	],
+	"creators": [
+		{
+            "fullName": "Xian Wan",
+            "firstName": "Xian",
+            "lastName": "Wan",
+            "affiliations": [
+                {
+                    "name": "Department of Psychiatry and Bioinformatics Centre, UBC"
+                }
+            ]
+		},
+        {
+            "fullName": "Paul Pavlidis",
+            "firstName": "Paul",
+            "lastName": "Pavlidis",
+            "affiliations": [
+                {
+                    "name": "Department of Psychiatry and Bioinformatics Centre, UBC"
+                }
+            ]
+        }
+	],
+	"types": [
+		{
+            "method": {
+                "value": "data availability review",
+                "valueIRI": ""
+            }
+        },
+        {
+            "method": {
+                "value": "data usage review",
+                "valueIRI": ""
+            }
+        },
+        {
+            "method": {
+                "value": "data tools review",
+                "valueIRI": ""
+            }
+        },
+        {
+            "information": {
+                "value": "high-throughput expression neuroscience data",
+                "valueIRI": ""
+            }
+        }
+	],
+	"title": "Sharing and reusing gene expression profiling data in neuroscience",
+	"description": "As public availability of gene expression profiling data increases, it is natural to ask how these data can be used by neuroscientists. Here we review the public availability of high-throughput expression data in neuroscience and how it has been reused, and tools that have been developed to facilitate reuse. There is increasing interest in making expression data reuse a routine part of the neuroscience tool-kit, but there are a number of challenges. Data must become more readily available in public databases; efforts to encourage investigators to make data available are important, as is education on the benefits of public data release. Once released, data must be better-annotated. Techniques and tools for data reuse are also in need of improvement. Integration of expression profiling data with neuroscience-specific resources such as anatomical atlases will further increase the value of expression data. (2018-02) ",
+	"storedIn": {
+		"name" : "CONP"
+	},
+	"primaryPublications" : [
+		{
+			"identifier": {
+                "identifier": "https://doi.org/10.5683/SP2/QAIMTK",
+                "identifierSource": "URI"
+            },
+            "alternateIdentifiers": [
+                {
+                    "identifier": "https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP2/QAIMTK",
+                    "identifierSource": "URI"
+                }
+            ],
+			"title": "Sharing and reusing gene expression profiling data in neuroscience",
+			"dates": [
+				{
+					"type": {
+						"value":"Primary reference publication date"
+					},
+					"date": "2019-03-11 00:00:00"
+				}
+			],
+			"publicationVenue": "Scholars Portal Dataverse",
+            "authors": [
+                {
+                    "fullName": "Xian Wan",
+                    "firstName": "Xian",
+                    "lastName": "Wan",
+                    "affiliations": [
+                        {
+                            "name": "Department of Psychiatry and Bioinformatics Centre, UBC"
+                        }
+                    ]
+                },
+                {
+                    "fullName": "Paul Pavlidis",
+                    "firstName": "Paul",
+                    "lastName": "Pavlidis",
+                    "affiliations": [
+                        {
+                            "name": "Department of Psychiatry and Bioinformatics Centre, UBC"
+                        }
+                    ]
+                }
+            ]
+		}
+	],
+	"dates": [
+		{
+			"type": {
+				"value":"Release Date"
+			},
+			"date": "2019-03-11 00:00:00"
+		}
+	],
+	"keywords": [
+        {
+            "value": "microarray",
+			"valueIRI": ""
+        },
+        {
+            "value": "gene expression",
+			"valueIRI": ""
+        },
+        {
+            "value": "meta-analysis",
+			"valueIRI": ""
+        },
+        {
+            "value": "medicine, health and life science",
+			"valueIRI": ""
+        }
+	]
+}
