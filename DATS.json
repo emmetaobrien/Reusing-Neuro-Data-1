@@ -21,6 +21,19 @@
                 }
             ]
 		},
+	{
+		"name": "Tomi Pastinen",
+		"roles": [
+			{
+				"value": "Principal Investigator"
+			}
+		],
+		"affiliations": [
+			{
+				"name": "McGill University"
+			}
+		]
+	},
         {
             "fullName": "Paul Pavlidis",
             "firstName": "Paul",
