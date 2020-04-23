@@ -12,38 +12,38 @@
 	],
 	"creators": [
 		{
-            "fullName": "Xian Wan",
-            "firstName": "Xian",
-            "lastName": "Wan",
-            "affiliations": [
-                {
-                    "name": "Department of Psychiatry and Bioinformatics Centre, UBC"
-                }
-            ]
+			"fullName": "Xian Wan",
+			"firstName": "Xian",
+			"lastName": "Wan",
+			"affiliations": [
+				{
+					"name": "Department of Psychiatry and Bioinformatics Centre, UBC"
+				}
+			]
 		},
-	{
-		"name": "Tomi Pastinen",
-		"roles": [
-			{
-				"value": "Principal Investigator"
-			}
-		],
-		"affiliations": [
-			{
-				"name": "McGill University"
-			}
-		]
-	},
-        {
-            "fullName": "Paul Pavlidis",
-            "firstName": "Paul",
-            "lastName": "Pavlidis",
-            "affiliations": [
-                {
-                    "name": "Department of Psychiatry and Bioinformatics Centre, UBC"
-                }
-            ]
-        }
+		{
+			"fullName": "Tomi Pastinen",
+			"roles": [
+				{
+					"value": "Principal Investigator"
+				}
+			],
+			"affiliations": [
+				{
+					"name": "McGill University"
+				}
+			]
+		},
+        	{
+			"fullName": "Paul Pavlidis",
+			"firstName": "Paul",
+			"lastName": "Pavlidis",
+			"affiliations": [
+				{
+					"name": "Department of Psychiatry and Bioinformatics Centre, UBC"
+				}
+			]
+        	}
 	],
 	"types": [
 		{
